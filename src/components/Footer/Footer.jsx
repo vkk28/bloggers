@@ -13,7 +13,7 @@ const Footer = () => {
     {
       name: "LinkedIn",
       icon: linkedin,
-      link: "",
+      link: "https://www.linkedin.com/in/varun-kashyap-a06486323/",
     },
     { name: "GitHub", icon: github, link: "https://github.com/vkk28" },
     // {
